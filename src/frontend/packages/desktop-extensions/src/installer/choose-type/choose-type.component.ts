@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class ChooseTypeComponent implements OnInit {
 
   public types = [{
-    title: 'Stratos',
+    title: 'Accelsoft',
     description: 'Stratos is the gateway interface to your Cloud Foundry and Kubernetes instances. Deploying this to your Kubernetes will unlock it\'s full potential and provide countless hours of efficiency saving, money and trees',
     icon: '/core/assets/logo.png'
   }, {
